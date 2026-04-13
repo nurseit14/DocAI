@@ -1,4 +1,4 @@
-# DocAI 🤖📄
+# DocAI 
 
 > Chat with your documents using AI. Upload PDFs, Word files, CSVs, or text files and ask questions about them in natural language.
 
@@ -9,20 +9,20 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📁 **Multi-file upload** — Upload multiple documents at once
-- 📄 **Multiple file types** — Supports PDF, DOCX, TXT, and CSV
-- 🔍 **Semantic search** — Finds the most relevant parts of your documents
-- 💬 **Chat interface** — Natural conversation with your documents
-- 🎯 **Document filtering** — Ask questions about a specific document or all documents at once
-- 🗂️ **Database viewer** — See which files are currently indexed
-- 🔒 **Fully local embeddings** — Uses HuggingFace embeddings, no data sent to external servers
-- ⚡ **Powered by Qwen** — Fast and accurate answers via Qwen API
+-  **Multi-file upload** — Upload multiple documents at once
+-  **Multiple file types** — Supports PDF, DOCX, TXT, and CSV
+-  **Semantic search** — Finds the most relevant parts of your documents
+-  **Chat interface** — Natural conversation with your documents
+-  **Document filtering** — Ask questions about a specific document or all documents at once
+-  **Database viewer** — See which files are currently indexed
+-  **Fully local embeddings** — Uses HuggingFace embeddings, no data sent to external servers
+-  **Powered by Qwen** — Fast and accurate answers via Qwen API
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ```
 Upload Document
@@ -56,7 +56,7 @@ Generate answer with sources (Qwen API)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 DocAI/
@@ -77,7 +77,7 @@ DocAI/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
@@ -106,7 +106,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 📖 Usage
+##Usage
 
 1. **Upload documents** — Use the sidebar to upload one or more files (PDF, DOCX, TXT, CSV)
 2. **Process** — Click the "⚙️ Process Documents" button
@@ -116,7 +116,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 streamlit
@@ -141,7 +141,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Image support (OCR with Tesseract)
 - [ ] Web URL loading
@@ -151,12 +151,9 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Built by **Nursei Itzhuzbay**
+Built by **Nurseiit Zhuzbay**
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use and modify this project.
