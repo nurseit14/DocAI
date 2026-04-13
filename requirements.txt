@@ -6,7 +6,7 @@ langchain-huggingface
 langchain-chroma
 langchain-text-splitters
 langchain-core
-chromadb
+chromadb==0.5.0
 pypdf
 docx2txt
 sentence-transformers
