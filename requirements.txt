@@ -6,12 +6,10 @@ langchain-huggingface
 langchain-chroma
 langchain-text-splitters
 langchain-core
-chromadb==0.4.24
-numpy==1.26.4
+chromadb
 pypdf
 docx2txt
 sentence-transformers
 python-dotenv
 dashscope
 tiktoken
-protobuf==3.20.3

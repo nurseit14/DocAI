@@ -2,10 +2,6 @@ import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["HF_HOME"] = os.path.expanduser("~/hf_cache")
 
-# Create necessary folders
-os.makedirs("data", exist_ok=True)
-os.makedirs("chroma_db", exist_ok=True)
-
 import streamlit as st
 from rag.loader import load_documents
 from rag.chunker import split_text
